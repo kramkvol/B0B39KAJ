@@ -2,7 +2,7 @@
 Summer Semester 2025 - Final Project for B0B39KAJ Client applications in JavaScript
 
 ## How to Use the Application
-1. Open the application in your browser by launching 'index.html' - [GitHub Pages](https://kramkvol.github.io/B0B39KAJ-Client-applications-in-JavaScript/)
+1. Open the application in your browser by launching 'index.html' - [GitHub Pages](https://kramkvol.github.io/B0B39KAJ/)
 2. If you are a new user, click 'Register here' on the login page and create an account.
 3. Log in using your registered username and password.
 4. Once logged in, you will be directed to the main task list interface.
